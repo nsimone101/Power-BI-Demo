@@ -1,0 +1,8444 @@
+pizza_type,total_cost,total_price
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.7,12.95
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+custom,3.05,14.25
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.5,12.7
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.4,12.6
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.55,12.75
+custom,3.0,14.2
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.1,12.25
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.2,12.35
+cheese,1.9,12.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.35,12.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.55,12.75
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.3,12.45
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.35,12.5
+custom,2.7,13.85
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.1,12.25
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.6,13.75
+custom,2.1,12.25
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.4,12.6
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.5,12.7
+sausage,2.5,13.5
+cheese,1.9,12.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.5,12.7
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.2,12.35
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.3,12.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,3.05,14.25
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.7,13.85
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.2,12.35
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,2.5,12.7
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.2,12.35
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.3,12.45
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+custom,2.5,12.7
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.8,13.85
+sausage,2.5,13.5
+custom,2.7,13.85
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.3,12.45
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.5,12.7
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,2.6,13.75
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.3,12.45
+custom,3.0,14.1
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+custom,2.3,12.45
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.6,13.75
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.3,12.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.55,12.75
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.1,12.25
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.4,12.6
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,3.0,14.2
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.3,12.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,3.1,14.3
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,3.25,14.45
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.7,13.85
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.35,12.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,3.0,14.2
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.6,12.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+custom,3.1,14.2
+sausage,2.5,13.5
+custom,2.9,14.1
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.7,13.85
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,3.1,14.3
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.75,12.95
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.1,12.25
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.3,12.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.6,13.75
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.8,14.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+custom,2.3,12.5
+sausage,2.5,13.5
+custom,2.8,14.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.5,12.7
+custom,2.55,12.75
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.6,12.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+custom,2.8,14.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.35,12.5
+pepperoni,2.4,13.5
+custom,2.4,12.6
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,3.25,14.45
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.3,12.45
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.4,12.6
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,3.1,14.2
+custom,2.2,12.35
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,3.0,14.2
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+custom,2.1,12.25
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.35,12.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+custom,2.6,13.75
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.8,13.95
+custom,3.0,14.2
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+custom,2.7,12.95
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.8,14.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,3.35,14.45
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+custom,3.2,15.25
+pepperoni,2.4,13.5
+custom,3.05,14.25
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.55,12.75
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.35,12.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.1,12.25
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,3.0,14.2
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.3,12.45
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.1,12.25
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.75,12.95
+custom,2.7,13.85
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.8,14.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.6,13.75
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.7,13.85
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.35,12.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.7,13.85
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,2.7,12.95
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.8,13.05
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+custom,2.7,13.85
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.3,12.5
+custom,2.4,12.6
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.6,13.75
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+custom,3.0,14.2
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.95,13.2
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.9,13.95
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.2,12.35
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+custom,2.3,12.45
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.3,12.45
+custom,2.2,12.35
+custom,2.8,13.95
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,3.0,14.2
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.2,12.35
+sausage,2.5,13.5
+custom,2.3,12.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,3.05,14.25
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.5,12.7
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.95,13.2
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.8,13.05
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,3.2,15.25
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,3.0,14.2
+pepperoni,2.4,13.5
+custom,2.7,13.85
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,3.2,14.3
+pepperoni,2.4,13.5
+custom,2.6,13.75
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+custom,2.5,12.7
+custom,2.6,13.75
+custom,2.8,13.05
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.1,12.25
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,3.0,14.2
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.9,14.1
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.2,12.35
+sausage,2.5,13.5
+custom,2.2,12.35
+veggie,3.45,13.8
+custom,2.5,12.7
+custom,2.2,12.35
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.5,12.7
+custom,2.7,12.95
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,3.05,14.25
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.5,12.7
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.5,12.7
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.55,12.75
+sausage,2.5,13.5
+custom,2.2,12.35
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.75,12.95
+custom,2.2,12.35
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.2,12.35
+custom,2.2,12.35
+sausage,2.5,13.5
+custom,2.35,12.5
+sausage,2.5,13.5
+custom,2.9,14.1
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.9,14.1
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.1,12.25
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.8,14.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.2,12.35
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.8,14.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.5,12.7
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.3,12.45
+custom,3.35,14.45
+custom,2.1,12.25
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.85,14.0
+custom,2.4,12.6
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.4,12.6
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.2,12.35
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.95,13.2
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.5,12.7
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+custom,2.8,13.95
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.8,14.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.35,12.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+custom,2.95,14.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+custom,2.5,12.7
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.6,13.75
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.55,12.75
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.6,12.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,3.25,14.45
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,12.85
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.6,12.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.75,12.95
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,3.25,14.45
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.7,13.85
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,3.0,14.2
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.5,12.7
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.6,13.75
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.35,12.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.7,13.85
+custom,2.1,12.25
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.6,12.85
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.7,13.85
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.95,13.2
+pepperoni,2.4,13.5
+custom,2.75,12.95
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.3,12.45
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.1,12.25
+pepperoni,2.4,13.5
+custom,2.35,12.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.2,12.35
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.5,12.7
+pepperoni,2.4,13.5
+custom,2.75,12.95
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.2,12.35
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.5,12.7
+pepperoni,2.4,13.5
+custom,2.2,12.35
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,3.45,15.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+custom,3.2,15.25
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.35,12.5
+custom,2.7,12.95
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.2,12.35
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.2,12.35
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.2,12.35
+custom,2.3,12.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.3,12.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.3,12.45
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.3,12.45
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.8,14.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,3.05,14.25
+custom,2.3,12.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.6,13.75
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.55,12.75
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.75,13.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.2,12.35
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.35,12.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.75,13.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.4,12.6
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.7,12.95
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,3.1,14.3
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.2,12.35
+pepperoni,2.4,13.5
+custom,2.35,12.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.35,12.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+custom,2.9,13.95
+sausage,2.5,13.5
+custom,2.7,12.95
+sausage,2.5,13.5
+custom,2.1,12.25
+pepperoni,2.4,13.5
+custom,2.5,12.7
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.6,12.8
+custom,3.0,14.2
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.3,12.45
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.95,14.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.6,13.75
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.2,12.35
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.5,12.7
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+meat lovers,3.0,15.0
+custom,2.1,12.25
+veggie,3.45,13.8
+custom,2.8,14.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.3,12.45
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.5,12.7
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.3,12.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,12.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.7,13.85
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.3,12.45
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.8,13.05
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.6,13.75
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.3,12.45
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.35,12.5
+custom,2.6,13.75
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.55,12.75
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.6,12.8
+custom,2.8,13.95
+veggie,3.45,13.8
+custom,3.05,14.25
+cheese,1.9,12.0
+custom,2.7,13.85
+custom,2.3,12.45
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.5,12.7
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,3.25,14.45
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.8,13.95
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.3,12.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.3,12.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.7,13.85
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,3.0,14.2
+custom,2.35,12.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.9,14.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.3,12.45
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.85,14.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.1,12.25
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.8,14.0
+pepperoni,2.4,13.5
+custom,2.2,12.35
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.7,13.85
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.7,13.85
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,3.1,14.3
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.35,12.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+custom,2.35,12.5
+custom,2.6,13.75
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.2,12.35
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.85,14.0
+custom,3.45,15.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.9,14.1
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.8,14.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.2,12.35
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.85,14.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+custom,2.6,13.75
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.55,12.75
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.8,14.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.5,12.7
+sausage,2.5,13.5
+custom,2.6,13.75
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.2,12.35
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.2,12.35
+custom,2.5,12.7
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,3.2,15.25
+pepperoni,2.4,13.5
+custom,2.6,13.75
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+custom,2.8,13.95
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,3.2,15.25
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,3.1,14.2
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,2.6,13.75
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,3.25,14.45
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.5,12.7
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,12.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+custom,2.4,12.6
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+custom,2.5,12.7
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.7,12.95
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.55,12.75
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.8,13.95
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.6,13.75
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.6,12.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.6,13.75
+custom,2.55,12.75
+custom,2.95,13.2
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.3,12.45
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.5,12.7
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.95,14.0
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.3,12.45
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.6,13.75
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.85,14.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.2,12.35
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.4,12.6
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.55,12.75
+custom,2.3,12.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.35,12.5
+sausage,2.5,13.5
+custom,2.6,12.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.55,12.75
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.2,12.35
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,3.05,14.25
+cheese,1.9,12.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.5,12.7
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.5,12.7
+meat lovers,3.0,15.0
+custom,2.9,14.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,3.25,14.45
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.3,12.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.55,12.75
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,3.0,14.2
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.35,12.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.2,12.35
+custom,2.35,12.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.5,12.7
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+custom,2.55,12.75
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,3.4,15.45
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.1,12.25
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.6,13.75
+veggie,3.45,13.8
+custom,2.7,12.95
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.7,13.85
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.35,12.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+cheese,1.9,12.0
+custom,3.2,15.25
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.3,12.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.9,14.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.35,12.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,3.1,14.3
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.35,12.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.55,12.75
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.35,12.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.3,12.45
+custom,2.35,12.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+custom,2.85,14.0
+sausage,2.5,13.5
+custom,2.8,13.95
+pepperoni,2.4,13.5
+custom,2.6,13.75
+sausage,2.5,13.5
+custom,2.7,13.75
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.3,12.5
+sausage,2.5,13.5
+custom,2.85,14.0
+veggie,3.45,13.8
+custom,2.6,13.75
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,3.0,14.2
+veggie,3.45,13.8
+custom,2.35,12.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.2,12.35
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.6,13.75
+custom,2.3,12.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+custom,2.75,12.95
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+cheese,1.9,12.0
+custom,2.1,12.25
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+custom,2.3,12.45
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+custom,2.1,12.25
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.1,12.25
+custom,2.2,12.35
+custom,2.1,12.25
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.55,12.75
+cheese,1.9,12.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.4,12.6
+meat lovers,3.0,15.0
+custom,2.6,13.75
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.5,12.7
+pepperoni,2.4,13.5
+custom,2.2,12.35
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.4,12.6
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.3,12.45
+cheese,1.9,12.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.9,14.1
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.5,12.7
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.3,12.45
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.3,12.45
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,3.0,14.2
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.6,13.75
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.55,12.75
+custom,2.6,13.75
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.7,13.85
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,3.0,14.2
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.55,12.75
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.35,12.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.5,12.7
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.2,12.35
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.5,12.7
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.6,12.85
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.9,14.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+custom,2.5,12.7
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,3.25,14.45
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.55,12.75
+custom,2.55,12.75
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.5,12.7
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.5,12.7
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.5,12.7
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.7,12.95
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,3.0,14.2
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.3,12.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.3,12.45
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.8,13.05
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.9,14.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,2.5,12.7
+veggie,3.45,13.8
+custom,2.6,13.75
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.6,12.85
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.5,12.7
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.9,14.1
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+custom,2.7,13.85
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.85,14.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.5,12.7
+sausage,2.5,13.5
+custom,2.3,12.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.1,12.25
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.3,12.5
+sausage,2.5,13.5
+custom,2.75,12.95
+sausage,2.5,13.5
+custom,2.8,13.05
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.2,12.35
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+custom,3.1,14.2
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.1,12.25
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,3.1,14.2
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.3,12.45
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.5,12.7
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.8,13.95
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.4,12.6
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,3.0,14.2
+cheese,1.9,12.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.55,12.75
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.7,13.85
+cheese,1.9,12.0
+custom,2.3,12.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+custom,2.2,12.35
+cheese,1.9,12.0
+custom,2.1,12.25
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.5,12.7
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.95,13.2
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.35,12.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.8,14.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+custom,2.1,12.25
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,3.25,14.45
+meat lovers,3.0,15.0
+custom,2.6,13.75
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+custom,2.8,14.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.7,13.85
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.5,12.7
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.9,14.1
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.5,12.7
+custom,2.55,12.75
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.2,12.35
+veggie,3.45,13.8
+custom,2.1,12.25
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.4,12.6
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.5,12.7
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.75,12.95
+custom,2.4,12.6
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.1,12.25
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,3.0,14.2
+custom,2.6,12.8
+meat lovers,3.0,15.0
+custom,2.7,12.95
+sausage,2.5,13.5
+custom,3.05,14.25
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.35,12.5
+meat lovers,3.0,15.0
+custom,2.6,13.75
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.3,12.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+custom,3.0,14.2
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+custom,2.4,12.6
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+custom,2.5,12.7
+custom,2.95,13.2
+sausage,2.5,13.5
+custom,3.0,14.2
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.7,13.85
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+custom,2.5,12.7
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,3.0,14.2
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.35,12.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.6,13.75
+custom,2.8,14.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.85,14.0
+custom,3.0,14.2
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.85,14.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.1,12.25
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+cheese,1.9,12.0
+custom,3.2,14.3
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.5,12.7
+custom,2.35,12.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+custom,2.2,12.35
+custom,2.5,12.7
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.7,12.95
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.6,13.75
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,3.1,14.2
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.8,14.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.6,13.75
+custom,2.8,13.95
+sausage,2.5,13.5
+custom,2.7,13.85
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,3.1,14.3
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.7,13.85
+custom,2.3,12.45
+custom,2.35,12.5
+custom,2.1,12.25
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.3,12.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,3.0,14.2
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.7,12.95
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.4,12.6
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.7,13.85
+custom,2.3,12.45
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.35,12.5
+sausage,2.5,13.5
+custom,2.85,14.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.35,12.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,3.3,15.35
+custom,2.1,12.25
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.35,12.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.55,12.75
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.35,12.5
+sausage,2.5,13.5
+custom,2.55,12.75
+sausage,2.5,13.5
+custom,2.6,13.75
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.8,13.85
+pepperoni,2.4,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+custom,3.1,14.3
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,3.35,14.45
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.9,14.1
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.35,12.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.8,13.95
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,3.15,14.25
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+custom,3.0,14.2
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.2,12.35
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.8,13.95
+custom,2.9,14.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,3.0,14.2
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.1,12.25
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.95,13.2
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.55,12.75
+meat lovers,3.0,15.0
+custom,2.6,13.75
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.6,13.75
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.6,12.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.75,12.95
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.4,12.6
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,3.25,14.45
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.6,12.85
+custom,2.6,13.75
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.8,13.05
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.8,13.95
+custom,3.0,14.2
+veggie,3.45,13.8
+custom,2.55,12.75
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.8,14.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.3,12.45
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.6,13.75
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.35,12.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.3,12.45
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+custom,3.2,15.25
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.2,12.35
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.35,12.5
+meat lovers,3.0,15.0
+custom,2.5,12.7
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,3.05,14.25
+custom,2.2,12.35
+custom,2.5,12.7
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.8,13.95
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.3,12.45
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,3.0,14.2
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.3,12.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.7,13.75
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.8,14.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.5,12.7
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.85,14.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,3.0,14.1
+pepperoni,2.4,13.5
+custom,2.55,12.75
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,3.05,14.25
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.4,12.6
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.1,12.25
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.6,13.75
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.35,12.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,3.1,14.3
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.1,12.25
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+custom,2.95,13.2
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,3.0,14.1
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.85,14.0
+custom,2.1,12.25
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.95,14.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.1,12.25
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,3.15,14.25
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,3.1,14.3
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.35,12.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,3.0,14.2
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.4,12.6
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.6,13.75
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.3,12.45
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.8,13.85
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.35,12.5
+veggie,3.45,13.8
+custom,2.6,12.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.8,13.05
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,3.05,14.25
+pepperoni,2.4,13.5
+custom,2.2,12.35
+veggie,3.45,13.8
+custom,2.6,13.75
+custom,2.5,12.7
+veggie,3.45,13.8
+custom,2.75,12.95
+sausage,2.5,13.5
+custom,2.35,12.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.95,14.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.6,13.75
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.5,12.7
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+custom,2.3,12.5
+custom,2.6,13.75
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.7,12.95
+custom,3.05,13.3
+cheese,1.9,12.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,3.45,15.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.7,13.75
+meat lovers,3.0,15.0
+custom,2.8,13.95
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,3.25,14.45
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.35,12.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.2,12.35
+custom,2.3,12.45
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.55,12.75
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,3.4,15.45
+veggie,3.45,13.8
+custom,3.35,14.45
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.6,12.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.1,12.25
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,3.1,14.3
+cheese,1.9,12.0
+cheese,1.9,12.0
+cheese,1.9,12.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+custom,3.1,14.3
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.3,12.5
+custom,2.75,12.95
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.2,12.35
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.7,13.85
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.35,12.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,3.1,14.2
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.1,12.25
+meat lovers,3.0,15.0
+custom,2.8,14.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,2.1,12.25
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.2,12.35
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.85,14.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,3.45,15.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.3,12.5
+custom,2.8,14.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,3.1,14.2
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.1,12.25
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.35,12.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,3.4,15.45
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,3.05,14.25
+pepperoni,2.4,13.5
+custom,2.9,14.1
+sausage,2.5,13.5
+custom,2.3,12.45
+custom,2.55,12.75
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+custom,2.1,12.25
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.3,12.5
+custom,2.75,12.95
+custom,2.3,12.45
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.8,14.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+custom,2.1,12.25
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+custom,2.2,12.35
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.9,14.1
+pepperoni,2.4,13.5
+custom,2.7,12.95
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,3.2,15.25
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.3,12.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,3.0,14.2
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.7,12.95
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.5,12.7
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.5,12.7
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,2.85,14.0
+pepperoni,2.4,13.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.85,14.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.5,12.7
+custom,2.5,12.7
+custom,2.2,12.35
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,3.0,14.1
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.6,13.75
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.5,12.7
+custom,2.6,13.75
+sausage,2.5,13.5
+custom,2.1,12.25
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.5,12.7
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.2,12.35
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.55,12.75
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.9,14.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.9,14.1
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,3.2,15.25
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.85,14.0
+pepperoni,2.4,13.5
+custom,2.3,12.45
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,3.3,15.35
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.6,13.75
+cheese,1.9,12.0
+custom,2.3,12.45
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.9,14.1
+cheese,1.9,12.0
+sausage,2.5,13.5
+custom,3.35,14.45
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,2.1,12.25
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,3.1,14.3
+pepperoni,2.4,13.5
+custom,2.7,13.85
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,2.85,14.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+custom,2.2,12.35
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,3.0,14.2
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+custom,2.6,13.75
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.2,12.35
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.1,12.25
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.6,12.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.8,13.95
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.85,14.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,3.2,15.25
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.9,14.1
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.5,12.7
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.3,12.45
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,2.55,12.75
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.2,12.35
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.2,12.35
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.5,12.7
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.85,14.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.7,13.85
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.35,12.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.1,12.25
+sausage,2.5,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.55,12.75
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,3.2,14.3
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.2,12.35
+custom,2.35,12.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.5,12.7
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.2,12.35
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,3.05,14.25
+veggie,3.45,13.8
+custom,2.6,13.75
+meat lovers,3.0,15.0
+custom,2.1,12.25
+sausage,2.5,13.5
+custom,2.8,13.95
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.2,12.35
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.7,13.75
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.9,14.1
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+custom,2.4,12.6
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+custom,2.1,12.25
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.7,13.75
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.1,12.25
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,3.3,15.35
+meat lovers,3.0,15.0
+custom,2.85,14.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.7,13.75
+pepperoni,2.4,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+custom,2.55,12.75
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.55,12.75
+custom,2.95,14.0
+custom,2.1,12.25
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.35,12.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.5,12.7
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.7,12.95
+custom,2.2,12.35
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.7,13.85
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.1,12.25
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+custom,2.8,13.05
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.1,12.25
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+custom,3.2,14.3
+veggie,3.45,13.8
+custom,2.6,13.75
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,3.05,14.25
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.6,13.75
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.85,14.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+custom,3.45,15.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.8,14.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.35,12.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.4,12.6
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.7,13.85
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.85,14.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.8,14.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.4,12.6
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.85,14.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.2,12.35
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+custom,2.1,12.25
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.2,12.35
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.4,12.6
+veggie,3.45,13.8
+custom,2.2,12.35
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.8,13.95
+sausage,2.5,13.5
+custom,2.35,12.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.3,12.5
+custom,2.3,12.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,3.0,14.2
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,3.0,14.2
+custom,2.7,12.95
+cheese,1.9,12.0
+custom,2.9,14.1
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+custom,2.85,14.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.4,12.6
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.95,14.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.6,13.75
+pepperoni,2.4,13.5
+custom,2.5,12.7
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+custom,2.7,12.95
+sausage,2.5,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+custom,2.5,12.7
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.3,12.45
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+custom,2.8,13.95
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.6,12.85
+meat lovers,3.0,15.0
+custom,3.05,14.25
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+custom,2.7,13.85
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.3,12.45
+pepperoni,2.4,13.5
+custom,2.7,13.85
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.6,13.75
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.2,12.35
+custom,2.6,13.75
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.3,12.45
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.8,13.95
+cheese,1.9,12.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+cheese,1.9,12.0
+custom,2.5,12.7
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.95,13.2
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.3,12.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.1,12.25
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.8,13.95
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.55,12.75
+cheese,1.9,12.0
+sausage,2.5,13.5
+custom,2.6,13.75
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+custom,2.3,12.45
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+custom,2.7,13.85
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.7,12.95
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.85,14.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.9,14.1
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.4,12.6
+custom,3.0,14.2
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.7,13.85
+veggie,3.45,13.8
+custom,3.05,14.25
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.75,12.95
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,3.0,14.1
+custom,2.1,12.25
+pepperoni,2.4,13.5
+custom,2.5,12.7
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.7,13.75
+pepperoni,2.4,13.5
+custom,2.5,12.7
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+custom,2.5,12.7
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+custom,2.6,13.75
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.7,12.95
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.3,12.45
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,2.7,12.95
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.5,12.7
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.95,14.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.5,12.7
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.35,12.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.6,13.75
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.8,14.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.7,12.95
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.8,13.95
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,2.2,12.35
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.75,12.95
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+custom,2.2,12.35
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.7,12.95
+pepperoni,2.4,13.5
+custom,2.35,12.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.6,13.75
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.2,12.35
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+custom,2.8,14.0
+custom,2.7,12.95
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+cheese,1.9,12.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,3.1,14.3
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+custom,2.85,14.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.4,12.6
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,3.05,13.3
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+custom,2.3,12.45
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+custom,2.1,12.25
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,3.05,14.25
+veggie,3.45,13.8
+custom,2.6,13.75
+meat lovers,3.0,15.0
+custom,2.35,12.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+custom,2.2,12.35
+sausage,2.5,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+custom,2.1,12.25
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.5,12.7
+custom,2.3,12.45
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.6,13.75
+pepperoni,2.4,13.5
+custom,2.55,12.75
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.3,12.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.8,13.05
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.1,12.25
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.3,12.45
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+custom,2.1,12.25
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.7,13.75
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.7,13.75
+pepperoni,2.4,13.5
+custom,2.1,12.25
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+sausage,2.5,13.5
+custom,2.35,12.5
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.2,12.35
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.6,13.75
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.6,12.8
+sausage,2.5,13.5
+custom,2.9,14.1
+sausage,2.5,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,3.0,14.2
+veggie,3.45,13.8
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.3,12.45
+cheese,1.9,12.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.8,14.0
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+custom,2.3,12.45
+custom,2.1,12.25
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+cheese,1.9,12.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+custom,2.1,12.25
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.3,12.45
+cheese,1.9,12.0
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+custom,2.7,13.75
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+custom,2.6,13.75
+veggie,3.45,13.8
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.6,13.75
+sausage,2.5,13.5
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+veggie,3.45,13.8
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.75,12.95
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+meat lovers,3.0,15.0
+custom,2.85,14.0
+meat lovers,3.0,15.0
+custom,2.1,12.25
+sausage,2.5,13.5
+veggie,3.45,13.8
+sausage,2.5,13.5
+veggie,3.45,13.8
+custom,2.7,13.75
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+sausage,2.5,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+custom,2.1,12.25
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+custom,2.3,12.45
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+cheese,1.9,12.0
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+meat lovers,3.0,15.0
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+custom,2.3,12.45
+pepperoni,2.4,13.5
+custom,2.35,12.5
+veggie,3.45,13.8
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+pepperoni,2.4,13.5
+veggie,3.45,13.8
+veggie,3.45,13.8
